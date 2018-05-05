@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "966208996123",
+    "firebase_url": "https://ufanetservicecenter.firebaseio.com",
+    "project_id": "ufanetservicecenter",
+    "storage_bucket": "ufanetservicecenter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966208996123:android:c2ba9d87e7e7106e",
+        "android_client_info": {
+          "package_name": "com.example.panda.ufanetservicecenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966208996123-5ki1fgrn05h6tmd099avdc1vqa62kfh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.panda.ufanetservicecenter",
+            "certificate_hash": "f966299638fbf0aa939bca47cb322dba4a0030e4"
+          }
+        },
+        {
+          "client_id": "966208996123-sa7lrtemgjuhqq5se2m58845arfm9usl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.panda.ufanetservicecenter",
+            "certificate_hash": "b62dbf5b3208a127bfd696d2af1d304ea265a811"
+          }
+        },
+        {
+          "client_id": "966208996123-4fn76ve4tpf7sdrv93m3c3puij6j96iq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.panda.ufanetservicecenter",
+            "certificate_hash": "0e183e34de25fff903c0d12414a50596886001d5"
+          }
+        },
+        {
+          "client_id": "966208996123-a72ve7f3gckrlee1am7rnpbapo0j2hii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYwk6HexFFKp_OKrFq53ulXIhUYDjRQMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966208996123-a72ve7f3gckrlee1am7rnpbapo0j2hii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
